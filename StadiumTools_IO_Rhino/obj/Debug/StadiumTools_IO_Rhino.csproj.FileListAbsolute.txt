@@ -1,0 +1,11 @@
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\bin\Debug\StadiumTools_IO_Rhino.dll
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\bin\Debug\StadiumTools_IO_Rhino.pdb
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\bin\Debug\StadiumTools.dll
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\bin\Debug\Mono.Cecil.dll
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\bin\Debug\StadiumTools.pdb
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\obj\Debug\StadiumTools_IO_Rhino.csproj.AssemblyReference.cache
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\obj\Debug\StadiumTools_IO_Rhino.csproj.CoreCompileInputs.cache
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\obj\Debug\StadiumTools_IO_Rhino.csproj.CopyComplete
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\obj\Debug\StadiumTools_IO_Rhino.dll
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\obj\Debug\StadiumTools_IO_Rhino.pdb
+C:\Users\ATSmi\source\repos\StadiumTools_IO_Rhino\bin\Debug\StadiumTools_IO_Rhino.dll.config
